@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Hello HTML
+title: Respect HTML
 date: 2016-08-08 20:00:00 -0600
 categories: learning
 ---
 # Respect HTML's Athoritai!
 
-I must admit, over the years, I've never taken HTML seriously.  I knew enough to use an HTML editor, when provided by an app or a website. I could struggle through creating a full web page, that's *after* a few trips to [Stack Overflow](http://stackoverflow.com/ "Stack Overflow") and [W3Schools] (http://www.w3schools.com/ "W3Schools").  Still, I never really gave it much respect.  
+I must admit, over the years, I've never taken HTML seriously.  I knew enough to use an HTML editor, when provided by an app or a website. I could struggle through creating a full web page, that's *after* a few trips to [Stack Overflow](http://www.stackoverflow.com/ "Stack Overflow") and [W3Schools] (http://www.w3schools.com/ "W3Schools").  Still, I never really gave it much respect.  
 
 Call it arrogance, but I figured I knew the basics and what else is there to know?
 + It's the DNA of a web page
