@@ -26,7 +26,7 @@ I've had to revisit all my preconceptions about HTML.
 + HTML *elements* make up a web page through strategically placed *tags*. - *What is the Box Model?*
 + It's easy to use. - *It's easy to mess up.*
 + Headers, defined by their various `<h#></h#>` tags. - *What is an `<hr>` tag?*
-+ Paragraphs, defined by `<p></p>` tags. - *What is a `<pre></pre> tag?*
++ Paragraphs, defined by `<p></p>` tags. - *What is a `<pre></pre>` tag?*
 + Divs, or blocks, defined by `<div></div>` tags. - *What are semantic elements?*
 + In-line styling attributes define the look of your elements. - *Noob!*
 
