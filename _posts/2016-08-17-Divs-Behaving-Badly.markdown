@@ -5,7 +5,6 @@ date: 2016-08-17 12:15:00 -0600
 categories: learning
 ---
 
-#Divs Behaving Badly
 
 Ok Divs, listen up!  I need you to line up in a nice, neat horizontal row.  I know you're used to being stacked, but that's not how we're going to roll this time.  I know you're different colors - red, blue and green, but you're all the same width and the same height, so it should be really simple to line yourselves up.  Ready? Ok:
 
@@ -91,4 +90,4 @@ Alright.  Now we're talking.  That looks good.  I'd like to bring in one more di
 
 This would be so much easier if you divs just did what I needed you to do the first time.  But no, you guys have to be uber literal about everything.  I guess I will just have to be specific with my CSS and be mindful of the doc flow in HTML.
 
-Now, I'd like to have you all centered horizontally on the page.  But, we'll wait for flex to gets here...
+Now, I'd like to have you all centered horizontally on the page.  But, we'll wait for flex to get here...
