@@ -32,4 +32,4 @@ Just to name a few.  Be sure to resize these pages to various screen widths to s
 
 ## Next-Gear Dev
 
-Bootstrap allows you to shift your web development into a higher gear.  But, let's be honest.  Bootstrap doesn't mean much to someone who doesn't understand the underlying concepts of HTML and CSS.  The intent of a framework is to supply the most common snippets of code necessary build a much grander design.  The final product ultimately relies on your ability to apply the boilerplate code *to your own code*, in order to meet your requirements.  Bootstrap is a tool, not a crutch.
+Bootstrap allows you to shift your web development into a higher gear.  But, let's be honest.  Bootstrap doesn't mean much to someone who doesn't understand the underlying concepts of HTML and CSS.  The intent of a framework is to supply the most common snippets of code necessary to build a much grander design.  The final product ultimately relies on your ability to apply the boilerplate code *to your own code*, in order to meet your requirements.  Bootstrap is a tool, not a crutch.
